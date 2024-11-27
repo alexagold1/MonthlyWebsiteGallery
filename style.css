@@ -1,60 +1,63 @@
-.image{
-    width: 90px;
-    height: 90px;
+.image {
+  width: 90px;
+  height: 90px;
 }
-body{
-    background-color: #f6cefc;
+body {
+  background-color: #f6cefc;
 }
-.card{
-    background-color: lavender;
+.card {
+  background-color: lavender;
 }
-h5{
-    font-family: "blambot-pro", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+h5 {
+  font-family: "blambot-pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
-p{
-    font-family: "blambot-pro", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+p {
+  font-family: "blambot-pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
-h1{
-    font-family: "nicholas", sans-serif;
-font-weight: 800;
-font-style: normal;
-}
-
-nav a{
-    font-family: "nicholas", sans-serif;
-    font-weight: 800;
-    font-style: normal;
-}
-.navbar-text{
-    font-family: "nicholas", sans-serif;
-    font-weight: 800;
-    font-style: normal;
+h1 {
+  font-family: "nicholas", sans-serif;
+  font-weight: 800;
+  font-style: normal;
 }
 
+nav a {
+  font-family: "nicholas", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.navbar-text {
+  font-family: "nicholas", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
 
 .css-button-gradient--6 {
-    min-width: 130px;
-    height: 40px;
-    color: #fff;
-    padding: 5px 10px;
-    font-weight: bold;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    position: relative;
-    display: inline-block;
-    outline: none;
-    border-radius: 5px;
-    border: none;
-    background-size: 120% auto;
-    background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 75%);
-  }
-  .css-button-gradient--6:hover {
-    background-position: right center;
-  }
-  .css-button-gradient--6:active {
-    top: 2px;
-  }
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-size: 120% auto;
+  background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 75%);
+}
+.css-button-gradient--6:hover {
+  background-position: right center;
+}
+.css-button-gradient--6:active {
+  top: 2px;
+}
+.card-img-top {
+  width: auto;
+  height: 280px;
+}
